@@ -5,3 +5,6 @@ O projeto foi desenvolvido com o objetivo de resolver os exercícios da
 Exercicio 2:
   -Para completar o exercício, foi necessário criar um diretório vazio e 
 iniciar o git. Além da elaboração desse arquivo txt.
+
+Adicionando a informação sobre o novo recurso que será incorporado
+ao projeto, conforme o exercício 3.
