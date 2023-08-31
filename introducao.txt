@@ -10,3 +10,6 @@ Adicionando a informação sobre o novo recurso que será incorporado
 ao projeto, conforme o exercício 3.
 
 Criando uma alteração para adicionar o pull request
+
+********
+Alterações de Carlos André Dias: https://github.com/andre10dias/
